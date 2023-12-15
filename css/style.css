@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    font-size: 100px;
+    word-spacing: -3px;
+    letter-spacing: -5px;
+    font-weight: bolder;
+    font-style:normal;
+    font-stretch: 100%;
+    font-family: 'Amatic SC', sans-serif;
+font-family: 'Inter', sans-serif;
+font-family: 'Oswald', sans-serif;
+}
+p, #quote{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 300;
+}
+button{
+    text-align: center;
+    margin: 20px 40%;
+    padding: 30px 70px;
+    background-color: blue;
+    color: white;
+}
+button:hover{
+    background-color: green;
+    color: white;
+}
